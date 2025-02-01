@@ -1,6 +1,4 @@
-# Dice-game🎲
-
-<h1>JWipe - Disk Sanitization</h1>
+<h1># Dice-game🎲</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=-CL85Zh8W3s)
 
