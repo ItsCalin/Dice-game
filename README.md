@@ -17,6 +17,6 @@ This Python script simulates a simple dice game where the player rolls a dice an
 <h2>Program walk-through:</h2>
 <p align="center">
 Launch the utility: <br/>
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="cnD7b9e"><a href="https://imgur.com/cnD7b9e">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"height="80%" width="80%" />
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="cnD7b9e"><a href="https://imgur.com/cnD7b9e">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8">
 <br />
 
