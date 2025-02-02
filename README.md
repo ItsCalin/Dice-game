@@ -9,36 +9,31 @@ This Python script simulates a simple dice game where the player rolls a dice an
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
+- <b>Python</b>  
 - <b>PyCharm</b>
 
 <p align="center">
 Start the script: <br/>
-<img src="https://i.imgur.com/cnD7b9e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cnD7b9e.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I want to roll again<br/>
+<img src="https://i.imgur.com/5mR1ypX.png" height="80%" width="80%" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/cmvVs3W.png" height="80%" width="80%" />
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I want to stop playing  <br/>
+<img src="https://i.imgur.com/xP9qNJj.png" height="80%" width="80%" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I play again and it lands on 1 
+So i lose
+<br/>
+<img src="https://i.imgur.com/GmbVcQ6.png" height="80%" width="80%" />
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
+
 
